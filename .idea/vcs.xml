@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CarRacing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Galactic-Defender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pacman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Paper-rock-scissors-lizard-Spoke" vcs="Git" />
+  </component>
+</project>
